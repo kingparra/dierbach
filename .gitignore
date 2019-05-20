@@ -1,0 +1,8 @@
+*.mp4
+*.mpg
+*.pdf
+*.pyc
+*.swp
+*__pytest__*
+*__PYTEST__*
+cover.jpg
