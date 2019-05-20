@@ -117,12 +117,12 @@ Self-Test Questions
 
    a. **A means of sorting any list of numbers**
    b. Directions for getting from your home to a friend’s house
-   c. A means of finding the shortest route from your house to a friend’s house.
+   c. **A means of finding the shortest route from your house to a friend’s house.**
 
 
 1.3 Computer Hardware
 ---------------------
-* Computer hardware is the physical part of a computer system.
+* Computer hardware are the physical parts of a computer system.
 
 
 1.3.1 Digital Computing: It's All about Switches
@@ -282,7 +282,6 @@ Self-Test Questions
 
 4. CPUs can only execute instructions that are in binary form called
    ``__machine code__``.
-
 5. The two fundamental types of translation programs for the execution of
    computer programs are ``__interpreters__`` and ``__compilers__``.
 6. The process of finding and correcting errors in a computer program is called
@@ -294,5 +293,5 @@ Self-Test Questions
    c. Neither of the above
 
 8. Two major programming paradigms in use today are ``__procedural__``
-   programming and ``__object oriented__`` programming.
+   programming and ``__object-oriented__`` programming.
 
