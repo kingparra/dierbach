@@ -14,24 +14,24 @@ Computational problem solving is more than just programming.
 
 * Analysis
 
-    * Clearly understand the problem.
-    * Know what constitutes a solution.
+  * Clearly understand the problem.
+  * Know what constitutes a solution.
 
 * Design
 
-    * Determine what type of data is needed.
-    * Determine how data is to be structured.
-    * Find and/or design appropriate algorithms.
+  * Determine what type of data is needed.
+  * Determine how data is to be structured.
+  * Find and/or design appropriate algorithms.
 
 * Implementation
 
-    * Represent data within the programming language.
-    * Implement algorithms in the programming language.
+  * Represent data within the programming language.
+  * Implement algorithms in the programming language.
 
 * Testing
 
-    * Test the program on a selected set of problem instances.
-    * Correct *and understand* the causes of any errors found.
+  * Test the program on a selected set of problem instances.
+  * Correct *and understand* the causes of any errors found.
 
 
 1.5.1 Problem Analysis
@@ -126,7 +126,7 @@ Variables
   name 'variable'.
 * Variables are set with the assignment operator, ``=``, like this::
 
-  var_name = 'value'
+    var_name = 'value'
 
 Some Basic Arithmetic Operators
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -143,7 +143,7 @@ Basic Input and Output
 ------------------------------
 * Write a script, run it with :kbd:`F5`, then debug. Arrowing up and pressing
   :kbd:`Ctrl`-:kbd:`Enter` will copy that line to the prompt.
-* But, let's be serious here; Don't use IDLE, it's crap. Use Vim and bpython
+* But, let's be serious here; Don't use IDLE, it's terrible. Use vim and xonsh
   instead, or any sane editor.
 
 
@@ -186,10 +186,13 @@ Basic Input and Output
 1.7.5 Program Testing
 ---------------------
 * Test Case:
-    a set of input values and expected output.
+
+  A set of input values and the expected output for each one.
+
 * Test Plan / Test Suite:
-    a number of test cases to verify that a program meets all requirements. A
-    good strategy is to include "average" as well as "extreme" or "special"
-    cases in a test plan. Another approach is to define unacceptable outputs
-    and use a program to send in arbitrary input within certain constraints.
+
+  A number of test cases to verify that a program meets all requirements. A
+  good strategy is to include "average" as well as "extreme" or "special"
+  cases in a test plan. Another approach is to define unacceptable outputs
+  and use a program to send in arbitrary input within certain constraints.
 
