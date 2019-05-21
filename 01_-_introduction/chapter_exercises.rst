@@ -140,16 +140,15 @@ Section 1.1
 
    e. How many shortest solutions are there for this problem?
 
-      Good question. How can I figure that out? What are the relevant
-      details? First off, what's a "solution", anyways? For our purposes,
-      it's a series of representations of who's on each shore, or state,
-      that must be recreated *in order*. So the relevant details are the
-      state during each step, and the order in which the steps must be
-      taken.
+      Good question. How can I figure that out? What are the relevant details?
+      First off, what's a "solution", anyways? For our purposes, it's a series
+      of representations of who's on each shore, or state, that must be
+      recreated *in order*. So the relevant details are the state during each
+      step, and the order in which the steps must be taken.
 
-      Let's create a graph, and arrange each state in the order they must
-      take to reach the goal state of W,W,W,W. Arrows that denote order can
-      connect nodes, which are steps.
+      Let's create a graph, and arrange each state in the order they must take
+      to reach the goal state of W,W,W,W. Arrows that denote order can connect
+      nodes, which are steps.
 
       So::
 
@@ -250,7 +249,6 @@ Section 1.2
 
    * My date of birth is April 30th, 1988. The day is Saturday.
 
-
 7. Suppose that an algorithm was needed for determining the day of the week for
    dates that only occur within the years 2000–2099. Simplify the day of the
    week algorithm in Figure 1-8 as much as possible by making the appropriate
@@ -258,11 +256,11 @@ Section 1.2
 
    * TODO
 
-
 8. As precisely as possible, give a series of steps (an algorithm) for doing
    long addition.
 
    * TODO
+
 
 Section 1.3
 -----------
@@ -270,7 +268,6 @@ Section 1.3
    a byte?
 
    * 8 bytes = 64 bits
-
 
 10. Convert the following values in binary representation to base 10. Show all
     steps.
@@ -295,7 +292,6 @@ Section 1.3
            2**0 + 2**1 + 2**2 + 2**3 = 15
            1 + 2 + 4 + 8 = 15
 
-
 11. Convert the following values into binary (base 2) representation. *Show all
     steps.*
 
@@ -313,7 +309,6 @@ Section 1.3
           h. 63  = 111111
           i. 128 = 10000000
           j. 127 = 1111111
-
 
 12. What is in common within each of the following groups of binary numbers?
 
@@ -333,7 +328,6 @@ Section 1.3
 
        * The are the largest possible value given that many digits. They are also
          odd numbers.
-
 
 13. Assuming that Moore’s Law continues to hold true, where n is the number of
     transistors that can currently be placed on an integrated circuit (chip),
@@ -410,7 +404,6 @@ Section 1.5
     c. 18 cities = 6402373705728000 possible routes
     d. 36 cities = 371993326789901217467999448150835200000000 possible routes
 
-
 19. Enter the following statement into the interactive shell::
 
         print('What is your favorite color?')
@@ -427,7 +420,6 @@ Section 1.5
         File "<input>", line 1, in <module>
         printt('What is your favorite color?')
         NameError: name 'printt' is not defined
-
 
 20. For the Traveling Salesman problem,
 
@@ -459,17 +451,13 @@ Section 1.6
     c. Debugging programs
     d. **All of the above**
 
-
 22. The Python shell is a window in which Python instructions are immediately executed. (**TRUE**/FALSE)
-
-
 23. Suppose that the math module of the Python Standard Library were imported.
     What would be the proper syntax for calling a function in the math module
     named sqrt to calculate the square root of four?
 
     * The proper syntax for calling the sqrt function of the math module would
       be ``math.sqrt()``.
-
 
 24. What is the value of variable n after the following instructions are executed? ::
 
@@ -479,13 +467,11 @@ Section 1.6
 
     * The value of n would be 50.
 
-
 25. Which of the following is a proper arithmetic expression in Python?
 
     a. ``10(15 + 6)``
     b. ``(10 * 2)(4 + 8)``
     c. **``5 * (6 - 2)``**
-
 
 26. Exactly what is output by the following if the user enters 24 in response
     to the input prompt::
