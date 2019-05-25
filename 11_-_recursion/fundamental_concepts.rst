@@ -47,17 +47,22 @@ Fundamental Concepts
 
 The Recursive Definition of the Factorial Function
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
 .. figure 11-5: Recursive Factorial Function Implementation
 
 A Recursive Factorial Function Implementation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
 .. figure 11-6: Factorial Recursive Instance Calls
+
+* Although the factorial function is an often-used example of a recursive
+  function, the function can be executed more effieciently when implemented to
+  use iteration.
 
 
 11.1.3 Let's Apply It: Fractals (Sierpinski Triangle)
 -----------------------------------------------------
+* The serpenski triangle is an exmaple of a fractal.
+* A fractal is a shape that contains parts that similar to the whol shape, thus
+  having the property of self-similarity.
 
 
 11.2 Recursive Problem solving
