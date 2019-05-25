@@ -254,12 +254,16 @@ Section 1.2
    week algorithm in Figure 1-8 as much as possible by making the appropriate
    changes.
 
-   * TODO
+   * TODO ... how? I kind of don't want to do this...
 
 8. As precisely as possible, give a series of steps (an algorithm) for doing
    long addition.
 
-   * TODO
+   * Write down every number added, aligned in columns by place value. Write a
+     line horizontal under the numbers. Then, for each column, from left to
+     right, add all digits in the column. If the result is more than one digit,
+     write the leftmost digit above the next column. Write the result under the
+     line.
 
 
 Section 1.3
@@ -424,17 +428,17 @@ Section 1.5
 20. For the Traveling Salesman problem,
 
     a. Update the list representation of the distances between cities in the table
-      in Figure 1-23 to add the city of Seattle. The distances between Seattle and
-      each of the other cities is given below.
+       in Figure 1-23 to add the city of Seattle. The distances between Seattle and
+       each of the other cities is given below.
 
-      * Atlanta to Seattle:         2641 miles
-      * Boston to Seattle:          3032 miles
-      * Chicago to Seattle:         2043 miles
-      * LA to Seattle:              1208 miles
-      * NYC to Seattle:             2832 miles
-      * San Francisco to Seattle:    808 miles
+       * Atlanta to Seattle:         2641 miles
+       * Boston to Seattle:          3032 miles
+       * Chicago to Seattle:         2043 miles
+       * LA to Seattle:              1208 miles
+       * NYC to Seattle:             2832 miles
+       * San Francisco to Seattle:    808 miles
 
-      * TODO
+       * TODO
 
     b. Determine a reasonably short route of travel for visiting each city once
        and only once, starting in Atlanta and ending in San Francisco.
