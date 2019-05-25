@@ -56,4 +56,5 @@ whether that year is a leap year:
 
    if ``value`` is equal to 0, then the day of the week is Saturday.
 
+.. from page 8
 
